@@ -1,0 +1,10 @@
+var marks=50;
+console.log("The marks are: " + marks);
+marks+=50;
+console.log("The final marks after incrementing are: " + marks);
+marks-=52;
+console.log("The final marks after decrementing are: " + marks);   
+marks*=2;
+console.log("The final marks after multiplication are: " + marks);
+marks/=2;
+console.log("The final marks after division are: " + marks);

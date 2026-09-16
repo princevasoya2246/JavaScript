@@ -1,0 +1,10 @@
+var x=20;
+var y=30;
+console.log("x value is: " + x);
+console.log("y value is: " + y);
+console.log("x==y is: " + (x==y));
+console.log("x!=y is: " + (x!=y));
+console.log("x>y is: " + (x>y));
+console.log("x<y is: " + (x<y));
+console.log("x>=y is: " + (x>=y));  
+console.log("x<=y is: " + (x<=y));
