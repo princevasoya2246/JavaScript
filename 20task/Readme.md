@@ -34,3 +34,7 @@
 [task16](output/task16.png)
 ## task 17:
 [task17](output/task17\.png)
+
+### video link
+
+[Watch Video](https://drive.google.com/file/d/1Bl_eGp57jjiHDxqrOWWm_Cilo6ddnwlQ/view?usp=drive_link);

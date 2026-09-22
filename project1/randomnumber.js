@@ -16,7 +16,7 @@ while (istrue) {
             alert("correct!");
             break;
         } else {
-            alert(`guess the number is larger (remaining guesses: ${count})`);
+            alert(`guess the number is larger (remaining guesses: ${count})`);1
         }
     }
     var istrue = confirm("Do you want to play again?");
