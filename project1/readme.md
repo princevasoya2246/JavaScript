@@ -9,5 +9,5 @@
 
 
 ## video link
-![watch video](https://drive.google.com/file/d/1XUWvJPqQxN1BkuebEToxHonZfo-s1wji/view?usp=sharing);
+[watch video](https://drive.google.com/file/d/1XUWvJPqQxN1BkuebEToxHonZfo-s1wji/view?usp=sharing);
 
