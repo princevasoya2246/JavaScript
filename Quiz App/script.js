@@ -59,7 +59,7 @@ let checkAnswer = function () {
     } else if (document.querySelectorAll('.op input')[3].checked) {
         useropt = document.querySelectorAll('.op input')[3].value;
     }
-    console.log(useropt);
+    // console.log(useropt);
     (questions[index - 1].ans == useropt) ? document.querySelector('.correct').innerHTML = ++corrects : document.querySelector('.incorrect').innerHTML = ++incorrects;
 
 }
